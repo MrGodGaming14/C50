@@ -1,0 +1,26 @@
+* {
+    
+}
+.header{
+    background-color: tomato;
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.Site_Description{
+    background-color: salmon;
+}
+.grid{
+    background-color: palevioletred;
+    display:flex;
+    justify-content: space-between;
+}
+.item{
+    background-color: royalblue;
+}
+.footer{
+    display:flex;
+    background-color: white;
+    justify-content:left;
+}
